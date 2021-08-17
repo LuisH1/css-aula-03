@@ -1,0 +1,9 @@
+#ty{
+    background-color: green;
+    color: white;
+}
+body {
+    background-image:url(img/Waves-of-the-beach-at-sunset_1920x1080.jpg);
+    background-repeat: no-repeat;
+    background-size: 50%;
+}
